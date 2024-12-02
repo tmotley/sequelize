@@ -1,0 +1,19 @@
+{
+  "name": "seq",
+  "version": "1.0.0",
+  "description": "Sequelize Test Code",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "^5.1.7",
+    "sequelize": "^6.37.5"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
